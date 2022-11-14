@@ -1,0 +1,13 @@
+{
+
+	"Print to console": {
+		"prefix": "konversiHari",
+		"body": [
+			"sisa2 = konversiHari(sisa1);",
+			"private static int konversiHari(int sisa1) {",
+			"return sisa1 % 30;",
+			"}"
+		],
+		"description": "Log output to console"
+	}
+}
