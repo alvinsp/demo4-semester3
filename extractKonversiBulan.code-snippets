@@ -3,7 +3,6 @@
 	"Print to console": {
 		"prefix": "konversiBulan",
 		"body": [
-			"bulan = konversiBulan(sisa1);",
 			"private static int konversiBulan(int sisa1) {",
 			"return sisa1 / 30;",
 			"}"

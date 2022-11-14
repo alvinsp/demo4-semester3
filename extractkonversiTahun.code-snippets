@@ -2,7 +2,6 @@
 	"Print to console": {
 		"prefix": "konversiTahun",
 		"body": [
-			"tahun = konversiTahun(hari);",
 			"private static int konversiTahun(int hari) {",
 			"return hari / 365;",
 			"}"
